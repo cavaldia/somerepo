@@ -25,10 +25,10 @@ namespace TimeClass
     {
         static void Main()
         {
-            Time t = new Time();
+            Time t = new Time(); //making new object or however they call it
             t.DisplayCurrentTime();
 
-            Console.ReadKey();
+            Console.ReadKey(); //just because the console is stupid 
         }
     }
 }
