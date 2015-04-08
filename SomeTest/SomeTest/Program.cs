@@ -13,7 +13,7 @@ namespace TimeClass
         int Date;
         int Hour;
         int Minute;
-        int Second;
+        int Second; //they are never used but who cares?
 
         public void DisplayCurrentTime()
         {
